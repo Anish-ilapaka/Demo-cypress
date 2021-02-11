@@ -4,7 +4,10 @@
   "description": "cypress Base",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "cypress": "npx cypress open",
+    "test": "npx cypress run",
+    "cypress:all": "npx cypress run --browser chrome",
+    "scripts": "cypress run"
   },
   "author": "",
   "license": "ISC",
