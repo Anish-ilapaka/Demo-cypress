@@ -1,0 +1,7 @@
+{
+    "job_types" : {
+        "product_manager" : "Product Manager",
+        "project_manager" : "Project Manager",
+        "java_developer" : "Java Developer"
+    }
+}
